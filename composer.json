@@ -1,12 +1,11 @@
 {
     "name": "zzonelive/laravel-sso-client",
-    "version": "1.0.1",
     "description": "A Laravel package for single sign-on",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "ZzoneLive\\LaravelSSOClient\\": "src/"
+            "ZzoneLive\\LaravelSSOClient\\": "ZzoneLive/LaravelSSOClient/src/"
         }
     },
     "extra": {
